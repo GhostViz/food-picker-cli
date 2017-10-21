@@ -17,7 +17,6 @@ GRANT_TYPE = "client_credentials"
 DEFAULT_TERM = "food"
 DEFAULT_LOCATION = "75240"
 DEFAULT_SEARCH_LIMIT = 10
-DEFAULT_DISTANCE = 2.5
 
 def bearer_token
 
