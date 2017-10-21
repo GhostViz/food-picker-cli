@@ -47,5 +47,7 @@ $ ruby app.rb --term="TERM" --location="LOCATION" --limit="NUMBER"
 ```
 
 ``` --term ``` is the keyword you are searching for. Lunch, Breakfast, Mexican, Chinese, etc
+
 ``` --location ``` is either your city, state or zipcode
+
 ``` --limit ``` is the number of results you'd like your random selection to be picked from
